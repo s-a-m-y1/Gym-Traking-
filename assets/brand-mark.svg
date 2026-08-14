@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <title>Heavy app mark</title>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M284 360v304M740 360v304" stroke-width="104"/>
+    <path d="M336 512h352" stroke-width="88"/>
+    <path d="M436 384v256M588 384v256" stroke-width="72"/>
+  </g>
+</svg>
