@@ -2,9 +2,9 @@
 
 A polished Expo / React Native workout tracker for building routines, logging sets, and reviewing training progress.
 
-[![Download Android APK](https://img.shields.io/badge/Download-Android%20APK-C8FF3D?style=for-the-badge&logo=android&logoColor=0B0F0C)](https://github.com/s-a-m-y1/Gym-Traking-/raw/refs/heads/master/releases/HEAVY-v1.0.0.apk)
+[![Download Android APK](https://img.shields.io/badge/Download-Android%20APK-C8FF3D?style=for-the-badge&logo=android&logoColor=0B0F0C)](https://github.com/s-a-m-y1/Gym-Traking-/raw/22c716e/releases/HEAVY-v1.0.0.apk)
 
-**[Download the latest Android APK](https://github.com/s-a-m-y1/Gym-Traking-/raw/refs/heads/master/releases/HEAVY-v1.0.0.apk)**
+**[Download the latest Android APK](https://github.com/s-a-m-y1/Gym-Traking-/raw/22c716e/releases/HEAVY-v1.0.0.apk)**
 
 ## Highlights
 
